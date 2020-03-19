@@ -1,2 +1,2 @@
 # react-boilerplate
-Boilerplate with ReactJS, babel, Webpack and TailwindCSS
+Boilerplate with ReactJS, redux, babel, eslint, Webpack and TailwindCSS
