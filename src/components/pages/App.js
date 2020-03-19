@@ -6,10 +6,8 @@ class App extends PureComponent {
   render() {
     return (
       <Fragment>
-        <header>
-          <div className='cat-logo' />
-        </header>
-        <main className='main-container'>
+        <header />
+        <main>
           {this.props.children}
         </main>
         <aside />
